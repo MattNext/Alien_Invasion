@@ -6,7 +6,7 @@
 
 ## Installation
 
-Install this game with Git & PIP
+Install this game with Git & pip
 
 ```bash
   git clone https://github.com/MattNext/Alien_Invasion
